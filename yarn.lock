@@ -719,7 +719,7 @@ fsevents@~2.3.1:
     "@tauri-apps/api": ^1.0.0-beta-rc.2
     akar-icons-svelte: ^1.1.1
     filesize: ^6.1.0
-    luxon: ^1.26.0
+    luxon: ^2.5.2
     rollup: ^2.3.4
     rollup-plugin-css-only: ^3.1.0
     rollup-plugin-livereload: ^2.0.0
@@ -1029,10 +1029,10 @@ fsevents@~2.3.1:
   languageName: node
   linkType: hard
 
-"luxon@npm:^1.26.0":
-  version: 1.26.0
-  resolution: "luxon@npm:1.26.0"
-  checksum: e12bb8bfdd69707f0f3e57b1b2ff39042c67904bdc437602064519f3eb87d3267497bc56cc0b7611faa40e22019991440a8e8e179d4c6a0440e9f226571fce46
+"luxon@npm:^2.5.2":
+  version: 2.5.2
+  resolution: "luxon@npm:2.5.2"
+  checksum: 11e319baf72ee52908efe58379b688f696991090e7be3d638ab7b8827a493ea8e7ce4cfbf5269b449171fb1381a19cc330bdcc0adae99a6a694fe4c3af67a847
   languageName: node
   linkType: hard
 
